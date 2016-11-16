@@ -35,7 +35,7 @@
     <plugin name="cordova-plugin-console" spec="~1.0.4" />
     <plugin name="cordova-plugin-googlemaps" spec="https://github.com/mapsplugin/cordova-plugin-googlemaps.git#multiple_maps">
         <variable name="API_KEY_FOR_ANDROID" value="AIzaSyAMs9GqvL4uh0ZY-YTTX2gLvHgAW0_0usg" />
-        <variable name="API_KEY_FOR_IOS" value="YOUR_APIKEY_GOES_HERE" />
+        <variable name="API_KEY_FOR_IOS" value="AIzaSyAWUcqWorGfgsfi6cOf55HqjOVaoQFphSA" />
         <variable name="NSLOCATIONWHENINUSEUSAGEDESCRIPTION" value="Show your location on the map" />
         <variable name="NSLOCATIONALWAYSUSAGEDESCRIPTION" value="Trace your location on the map" />
     </plugin>
